@@ -1,216 +1,106 @@
-<div align="center">
-  <img src="./public/readme-hero.svg" alt="Clemm Amoguis / Clemmentino portfolio hero" width="100%" />
-</div>
+# Clemm Amoguis Portfolio
 
-<div align="center">
-  <a href="https://clemmentino-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Launch_Portfolio-14191d?style=for-the-badge&labelColor=e16f4f&color=14191d" alt="Launch portfolio" />
-  </a>
-  <a href="mailto:mamoamoguis@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-14191d?style=for-the-badge&labelColor=e9b949&color=14191d" alt="Contact me" />
-  </a>
-  <a href="https://github.com/Clemmentino">
-    <img src="https://img.shields.io/badge/GitHub_Clemmentino-14191d?style=for-the-badge&labelColor=75a7d9&color=14191d" alt="GitHub Clemmentino" />
-  </a>
-</div>
+Personal portfolio for **Clemm Amoguis**, also known as **Clemmentino**. I am a
+BSIT 2nd year student at **Davao Del Norte State College**, based in Panabo City.
 
-<br />
+This portfolio presents my work as a frontend-focused student developer with
+experience in UI/UX, PHP, Laravel, deployment, and practical web systems.
 
-<div align="center">
-  <img src="./public/readme-identity.svg" alt="Animated identity card for Clemm Amoguis" width="100%" />
-</div>
+## Overview
 
-<br />
+The site is built to feel personal, readable, and professional. It includes:
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Frontend Craft</h3>
-      <p>UI/UX, layout, responsive screens, hierarchy, and readable interfaces.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Practical Systems</h3>
-      <p>PHP, Laravel, deployment, backend connections, and simple server setup.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Public-Tech Direction</h3>
-      <p>Government tech, disaster-warning ideas, monitoring tools, and useful systems.</p>
-    </td>
-  </tr>
-</table>
+- A personal About Me section
+- Selected project showcases
+- Theme switching with automatic time-based mode
+- Scroll reveal animations
+- A looping skills ticker
+- Responsive layouts for desktop and mobile
 
-<div align="center">
-  <img src="./public/readme-flow.svg" alt="Animated portfolio flow" width="100%" />
-</div>
+## Featured Projects
 
-<br />
+### Smart Campus Energy System
 
-<div align="center">
-  <img src="./public/readme-stack.svg" alt="Animated stack strip" width="100%" />
-</div>
+A school energy-management platform focused on dashboards, appliance states,
+room scheduling, consumption visibility, and operational feedback.
 
-<br />
+**Stack:** Laravel, Vue, PHP, Vite, Chart.js, FullCalendar
 
-<div align="center">
-  <h2>Selected Work</h2>
-  <p>Three builds that show where the portfolio is headed: practical, visual, and useful.</p>
-</div>
+### OceanWatch
 
-<table>
-  <tr>
-    <td width="46%">
-      <img src="./public/scene-preview-a.png" alt="Smart Campus Energy System preview" />
-    </td>
-    <td width="54%">
-      <h3>01 / Smart Campus Energy System</h3>
-      <p>
-        A school energy-management platform shaped around dashboards, appliance
-        states, room scheduling, consumption visibility, and operational feedback.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-e16f4f?style=for-the-badge&labelColor=14191d&color=e16f4f" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Vue-7aa66a?style=for-the-badge&labelColor=14191d&color=7aa66a" alt="Vue" />
-        <img src="https://img.shields.io/badge/PHP-75a7d9?style=for-the-badge&labelColor=14191d&color=75a7d9" alt="PHP" />
-      </p>
-    </td>
-  </tr>
-</table>
+An SDG 14 advocacy website built for readable marine-conservation content,
+publication access, volunteer entry points, and responsive browsing.
 
-<table>
-  <tr>
-    <td width="54%">
-      <h3>02 / OceanWatch</h3>
-      <p>
-        An SDG 14 advocacy website built for readable marine-conservation
-        content, publication access, volunteer entry points, and responsive
-        browsing.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-e16f4f?style=for-the-badge&labelColor=14191d&color=e16f4f" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-75a7d9?style=for-the-badge&labelColor=14191d&color=75a7d9" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-e9b949?style=for-the-badge&labelColor=14191d&color=e9b949" alt="JavaScript" />
-      </p>
-    </td>
-    <td width="46%">
-      <img src="./public/scene-preview-b.png" alt="OceanWatch preview" />
-    </td>
-  </tr>
-</table>
+**Stack:** HTML, CSS, JavaScript, Bootstrap
 
-<table>
-  <tr>
-    <td width="46%">
-      <img src="./public/scene-preview-c.png" alt="LINDOL preview" />
-    </td>
-    <td width="54%">
-      <h3>03 / LINDOL</h3>
-      <p>
-        A Philippine earthquake-monitoring project with a static frontend, Flask
-        backend, PHIVOLCS-backed data flow, map overlays, intensity views, and
-        alert concepts.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-fbfcf8?style=for-the-badge&labelColor=14191d&color=fbfcf8" alt="Flask" />
-        <img src="https://img.shields.io/badge/Leaflet-7aa66a?style=for-the-badge&labelColor=14191d&color=7aa66a" alt="Leaflet" />
-        <img src="https://img.shields.io/badge/PHIVOLCS-e16f4f?style=for-the-badge&labelColor=14191d&color=e16f4f" alt="PHIVOLCS" />
-      </p>
-    </td>
-  </tr>
-</table>
+### LINDOL
 
-<br />
+A Philippine earthquake-monitoring project with a static frontend, Flask backend,
+PHIVOLCS-backed data flow, map overlays, intensity views, and alert concepts.
 
-<div align="center">
-  <h2>Inside The Build</h2>
-</div>
+**Stack:** Flask, Leaflet, PHIVOLCS data flow, Vercel, Render
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <h3>Theme</h3>
-      <p>Auto, light, soft, and dark modes.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>Motion</h3>
-      <p>Reveal transitions and scroll progress.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>Ticker</h3>
-      <p>Looping skills and interests strip.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>About</h3>
-      <p>Personal identity and focused strengths.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>Work</h3>
-      <p>Sticky project scenes with previews.</p>
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
-<details>
-  <summary><strong>Run the portfolio locally</strong></summary>
+- Next.js 16
+- React 19
+- App Router
+- Custom CSS
+- Vercel-ready deployment
 
-  ```bash
-  npm install
-  npm run dev
-  ```
+## Local Development
 
-  ```bash
-  npm run build
-  ```
+Install dependencies:
 
-</details>
+```bash
+npm install
+```
 
-<details>
-  <summary><strong>Project structure</strong></summary>
+Start the development server:
 
-  ```txt
-  app/
-    globals.css
-    layout.js
-    page.js
+```bash
+npm run dev
+```
 
-  components/
-    portfolio-experience.jsx
+Build for production:
 
-  public/
-    me.jpg
-    readme-hero.svg
-    readme-identity.svg
-    readme-flow.svg
-    readme-motion.svg
-    readme-stack.svg
-    scene-preview-a.png
-    scene-preview-b.png
-    scene-preview-c.png
-    social-cover.png
-  ```
+```bash
+npm run build
+```
 
-</details>
+## Project Structure
 
-<br />
+```text
+app/
+  globals.css
+  layout.js
+  page.js
 
-<div align="center">
-  <h2>GitHub Motion</h2>
-  <img src="./public/readme-motion.svg" alt="Animated local GitHub motion panel" width="100%" />
-</div>
+components/
+  portfolio-experience.jsx
 
-<br />
+public/
+  me.jpg
+  scene-preview-a.png
+  scene-preview-b.png
+  scene-preview-c.png
+  social-cover.png
+  svglogo.png
+```
 
-<details>
-  <summary><strong>Optional live contribution snake</strong></summary>
+## Main Files
 
-  The workflow in `.github/workflows/snake.yml` can generate a real contribution
-  snake after this repository is pushed to GitHub and the action runs. Until the
-  `output` branch exists, the local animated panel above is used so the README
-  does not show broken images.
+- `components/portfolio-experience.jsx`  
+  Main portfolio experience, content, sections, and client-side interactions.
+q
+- `app/globals.css`  
+  Global styling, themes, responsive layout, and animations.
 
-</details>
+- `app/layout.js`  
+  Metadata, fonts, icons, and theme initialization.
 
-<br />
+## Contact
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:14191d,45:e16f4f,100:e9b949&text=Clemm%20Amoguis%20/%20Clemmentino&fontColor=fbfcf8&fontSize=28&fontAlignY=55&desc=Frontend-focused.%20Practical%20with%20systems.%20Interested%20in%20public-tech%20tools.&descAlignY=78&descSize=14" alt="Footer banner" />
-</div>
+- Email: `mamoamoguis@gmail.com`
+- GitHub: [github.com/Clemmentino](https://github.com/Clemmentino)
+- Portfolio: [clemmentino-portfolio.vercel.app](https://clemmentino-portfolio.vercel.app)
