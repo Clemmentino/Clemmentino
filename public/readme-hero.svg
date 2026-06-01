@@ -1,96 +1,77 @@
-<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fbfcf8"/>
-      <stop offset="0.48" stop-color="#edf3f5"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fbfcf8"/>
+      <stop offset="0.5" stop-color="#edf3f5"/>
       <stop offset="1" stop-color="#f9faf4"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#e16f4f"/>
-      <stop offset="0.5" stop-color="#e9b949"/>
-      <stop offset="1" stop-color="#75a7d9"/>
-    </linearGradient>
-    <linearGradient id="screen" x1="710" y1="170" x2="1130" y2="485" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ffffff" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#dfecef" stop-opacity="0.84"/>
-    </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#1f2f39" flood-opacity="0.16"/>
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#1f2f39" flood-opacity="0.18"/>
     </filter>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="24"/>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="28"/>
     </filter>
     <style>
       .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: Georgia, "Times New Roman", serif; }
-      .muted { fill: #5d6970; }
-      .ink { fill: #14191d; }
-      .tiny { font-size: 17px; letter-spacing: 4px; }
-      .chip { font-size: 18px; font-weight: 700; letter-spacing: 2px; }
-      .body { font-size: 24px; }
-      .title { font-size: 84px; font-weight: 700; letter-spacing: -3px; }
-      .float-a { animation: floatA 6s ease-in-out infinite; }
-      .float-b { animation: floatB 7s ease-in-out infinite; }
-      .pulse { animation: pulse 3.4s ease-in-out infinite; transform-origin: center; }
+      .eyebrow { font-size: 16px; letter-spacing: 4px; font-weight: 800; }
+      .title { font-size: 68px; font-weight: 700; letter-spacing: -2px; }
+      .copy { font-size: 22px; }
+      .chip { font-size: 16px; letter-spacing: 2px; font-weight: 800; }
+      .float { animation: float 6s ease-in-out infinite; }
+      .float2 { animation: float2 7s ease-in-out infinite; }
       .dash { stroke-dasharray: 10 18; animation: dash 18s linear infinite; }
-      @keyframes floatA { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
-      @keyframes floatB { 0%,100% { transform: translateY(0); } 50% { transform: translateY(12px); } }
-      @keyframes pulse { 0%,100% { opacity: .72; transform: scale(1); } 50% { opacity: 1; transform: scale(1.035); } }
-      @keyframes dash { to { stroke-dashoffset: -280; } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+      @keyframes float2 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(10px); } }
+      @keyframes dash { to { stroke-dashoffset: -260; } }
     </style>
   </defs>
 
-  <rect width="1280" height="640" rx="36" fill="url(#bg)"/>
-  <circle cx="170" cy="112" r="170" fill="#e16f4f" fill-opacity="0.14" filter="url(#soft)"/>
-  <circle cx="1030" cy="106" r="220" fill="#75a7d9" fill-opacity="0.24" filter="url(#soft)"/>
-  <circle cx="1035" cy="545" r="180" fill="#7aa66a" fill-opacity="0.14" filter="url(#soft)"/>
+  <rect width="1280" height="560" rx="34" fill="url(#bg)"/>
+  <circle cx="148" cy="96" r="150" fill="#e16f4f" fill-opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1060" cy="110" r="180" fill="#75a7d9" fill-opacity="0.22" filter="url(#blur)"/>
+  <circle cx="1060" cy="468" r="140" fill="#7aa66a" fill-opacity="0.14" filter="url(#blur)"/>
+  <path class="dash" d="M72 460 C225 390 312 490 470 402 C632 312 740 395 904 278 C1000 210 1115 218 1208 196" stroke="#14191d" stroke-opacity="0.16" stroke-width="2.5" fill="none"/>
 
-  <path class="dash" d="M68 525 C250 430 330 570 520 465 C704 362 775 438 942 298 C1022 232 1095 214 1202 232" stroke="#14191d" stroke-opacity="0.16" stroke-width="2" fill="none"/>
-
-  <g transform="translate(76 82)">
-    <circle cx="12" cy="12" r="8" fill="#e16f4f"/>
-    <text x="34" y="18" class="sans tiny muted">CLEMM AMOGUIS / CLEMMENTINO</text>
+  <g transform="translate(76 76)">
+    <circle cx="11" cy="11" r="7" fill="#e16f4f"/>
+    <text x="31" y="17" class="sans eyebrow" fill="#5d6970">CLEMM AMOGUIS / CLEMMENTINO</text>
   </g>
 
-  <g transform="translate(76 168)">
-    <text x="0" y="0" class="serif title ink">Clear interfaces</text>
-    <text x="0" y="92" class="serif title ink">for useful systems.</text>
-    <text x="0" y="162" class="sans body muted">Frontend-focused BSIT student building UI/UX,</text>
-    <text x="0" y="198" class="sans body muted">Laravel/PHP systems, deployment flows, and public-tech ideas.</text>
+  <g transform="translate(76 152)">
+    <text x="0" y="0" class="serif title" fill="#14191d">Clear interfaces</text>
+    <text x="0" y="78" class="serif title" fill="#14191d">for useful systems.</text>
+    <text x="0" y="142" class="sans copy" fill="#5d6970">Frontend-focused BSIT student building UI/UX,</text>
+    <text x="0" y="176" class="sans copy" fill="#5d6970">Laravel/PHP flows, deployment, and public-tech ideas.</text>
   </g>
 
-  <g transform="translate(76 440)">
-    <rect width="172" height="48" rx="24" fill="#e16f4f"/>
-    <text x="24" y="31" class="sans chip" fill="#fffaf1">UI / UX</text>
-    <rect x="190" width="188" height="48" rx="24" fill="#14191d"/>
-    <text x="214" y="31" class="sans chip" fill="#fbfcf8">LARAVEL</text>
-    <rect x="396" width="178" height="48" rx="24" fill="#e9b949"/>
-    <text x="420" y="31" class="sans chip" fill="#101417">DEPLOY</text>
-    <rect x="592" width="230" height="48" rx="24" fill="#75a7d9"/>
-    <text x="616" y="31" class="sans chip" fill="#101417">PUBLIC TECH</text>
+  <g transform="translate(76 392)">
+    <rect width="144" height="42" rx="21" fill="#e16f4f"/>
+    <text x="24" y="27" class="sans chip" fill="#fffaf1">UI / UX</text>
+    <rect x="162" width="152" height="42" rx="21" fill="#14191d"/>
+    <text x="188" y="27" class="sans chip" fill="#fbfcf8">LARAVEL</text>
+    <rect x="332" width="142" height="42" rx="21" fill="#e9b949"/>
+    <text x="358" y="27" class="sans chip" fill="#101417">DEPLOY</text>
+    <rect x="492" width="190" height="42" rx="21" fill="#75a7d9"/>
+    <text x="518" y="27" class="sans chip" fill="#101417">PUBLIC TECH</text>
   </g>
 
-  <g class="float-a" filter="url(#shadow)">
-    <rect x="730" y="155" width="430" height="332" rx="28" fill="url(#screen)" stroke="#14191d" stroke-opacity="0.1"/>
-    <rect x="762" y="193" width="168" height="18" rx="9" fill="#14191d" fill-opacity="0.82"/>
-    <rect x="762" y="232" width="340" height="14" rx="7" fill="#5d6970" fill-opacity="0.34"/>
-    <rect x="762" y="262" width="284" height="14" rx="7" fill="#5d6970" fill-opacity="0.24"/>
-    <rect x="762" y="316" width="96" height="96" rx="16" fill="#e16f4f" fill-opacity="0.16" stroke="#e16f4f" stroke-opacity="0.36"/>
-    <rect x="882" y="316" width="96" height="96" rx="16" fill="#75a7d9" fill-opacity="0.18" stroke="#75a7d9" stroke-opacity="0.36"/>
-    <rect x="1002" y="316" width="96" height="96" rx="16" fill="#7aa66a" fill-opacity="0.16" stroke="#7aa66a" stroke-opacity="0.36"/>
-    <path d="M786 384 L820 348 L846 374" stroke="#e16f4f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M906 380 L930 352 L958 388" stroke="#75a7d9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M1026 386 L1052 350 L1082 372" stroke="#7aa66a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="float" filter="url(#shadow)">
+    <rect x="780" y="128" width="380" height="276" rx="26" fill="#fbfcf8" fill-opacity="0.86" stroke="#14191d" stroke-opacity="0.1"/>
+    <rect x="812" y="166" width="154" height="16" rx="8" fill="#14191d" fill-opacity="0.82"/>
+    <rect x="812" y="202" width="286" height="12" rx="6" fill="#5d6970" fill-opacity="0.34"/>
+    <rect x="812" y="228" width="232" height="12" rx="6" fill="#5d6970" fill-opacity="0.22"/>
+    <rect x="812" y="276" width="86" height="86" rx="16" fill="#e16f4f" fill-opacity="0.15" stroke="#e16f4f" stroke-opacity="0.34"/>
+    <rect x="928" y="276" width="86" height="86" rx="16" fill="#75a7d9" fill-opacity="0.17" stroke="#75a7d9" stroke-opacity="0.34"/>
+    <rect x="1044" y="276" width="86" height="86" rx="16" fill="#7aa66a" fill-opacity="0.15" stroke="#7aa66a" stroke-opacity="0.34"/>
+    <path d="M834 336 L858 306 L884 332" stroke="#e16f4f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M950 336 L974 306 L1000 332" stroke="#75a7d9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1066 336 L1090 306 L1116 332" stroke="#7aa66a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <g class="float-b">
-    <rect x="672" y="98" width="182" height="62" rx="18" fill="#fbfcf8" stroke="#14191d" stroke-opacity="0.1" filter="url(#shadow)"/>
-    <circle cx="704" cy="129" r="9" fill="#e16f4f"/>
-    <text x="724" y="136" class="sans chip muted">BSIT 2ND YEAR</text>
-  </g>
-
-  <g class="pulse">
-    <circle cx="1138" cy="504" r="18" fill="url(#accent)"/>
-    <circle cx="1138" cy="504" r="34" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="3"/>
+  <g class="float2" filter="url(#shadow)">
+    <rect x="704" y="84" width="190" height="58" rx="17" fill="#fbfcf8"/>
+    <circle cx="734" cy="113" r="8" fill="#e16f4f"/>
+    <text x="754" y="119" class="sans chip" fill="#14191d">BSIT 2ND YEAR</text>
   </g>
 </svg>
