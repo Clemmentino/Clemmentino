@@ -1,135 +1,214 @@
+<div align="center">
+  <img src="./public/readme-hero.svg" alt="Clemm Amoguis / Clemmentino portfolio hero" width="100%" />
+</div>
 
-raw
-Readme · MD
 <div align="center">
-  <img src="./public/readme-hero.svg" alt="Clemm Amoguis" width="100%" />
+  <a href="https://clemmentino-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Launch_Portfolio-14191d?style=for-the-badge&labelColor=e16f4f&color=14191d" alt="Launch portfolio" />
+  </a>
+  <a href="mailto:mamoamoguis@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-14191d?style=for-the-badge&labelColor=e9b949&color=14191d" alt="Contact me" />
+  </a>
+  <a href="https://github.com/Clemmentino">
+    <img src="https://img.shields.io/badge/GitHub_Clemmentino-14191d?style=for-the-badge&labelColor=75a7d9&color=14191d" alt="GitHub Clemmentino" />
+  </a>
 </div>
+
 <br />
+
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/clemmentino--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clemmentino-portfolio.vercel.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/mamoamoguis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamoamoguis@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/@Clemmentino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clemmentino)
- 
+  <img src="./public/readme-identity.svg" alt="Animated identity card for Clemm Amoguis" width="100%" />
 </div>
+
 <br />
----
- 
-## `whoami`
- 
-```
-Name     →  Clemm Amoguis (Clemmentino)
-Degree   →  BSIT, 2nd Year
-School   →  Davao Del Norte State College
-Location →  Panabo City, Philippines
-Focus    →  Frontend interfaces · Backend systems · Public-tech tools
-```
- 
----
- 
-## Stack
- 
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Frontend Craft</h3>
+      <p>UI/UX, layout, responsive screens, hierarchy, and readable interfaces.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Practical Systems</h3>
+      <p>PHP, Laravel, deployment, backend connections, and simple server setup.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Public-Tech Direction</h3>
+      <p>Government tech, disaster-warning ideas, monitoring tools, and useful systems.</p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
- 
+  <img src="./public/readme-flow.svg" alt="Animated portfolio flow" width="100%" />
 </div>
----
- 
-## Selected Work
- 
+
 <br />
-### ⚡ Smart Campus Energy System
- 
-> A school energy-management platform shaped around dashboards, appliance states, room scheduling, consumption visibility, and operational feedback.
- 
+
 <div align="center">
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Charts](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
- 
+  <img src="./public/readme-stack.svg" alt="Animated stack strip" width="100%" />
 </div>
+
 <br />
-### 🌊 OceanWatch
- 
-> An SDG 14 advocacy website built for readable marine-conservation content, publication access, volunteer entry points, and responsive browsing.
- 
+
 <div align="center">
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
- 
+  <h2>Selected Work</h2>
+  <p>Three builds that show where the portfolio is headed: practical, visual, and useful.</p>
 </div>
+
+<table>
+  <tr>
+    <td width="46%">
+      <img src="./public/scene-preview-a.png" alt="Smart Campus Energy System preview" />
+    </td>
+    <td width="54%">
+      <h3>01 / Smart Campus Energy System</h3>
+      <p>
+        A school energy-management platform shaped around dashboards, appliance
+        states, room scheduling, consumption visibility, and operational feedback.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-e16f4f?style=for-the-badge&labelColor=14191d&color=e16f4f" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Vue-7aa66a?style=for-the-badge&labelColor=14191d&color=7aa66a" alt="Vue" />
+        <img src="https://img.shields.io/badge/PHP-75a7d9?style=for-the-badge&labelColor=14191d&color=75a7d9" alt="PHP" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="54%">
+      <h3>02 / OceanWatch</h3>
+      <p>
+        An SDG 14 advocacy website built for readable marine-conservation
+        content, publication access, volunteer entry points, and responsive
+        browsing.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-e16f4f?style=for-the-badge&labelColor=14191d&color=e16f4f" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-75a7d9?style=for-the-badge&labelColor=14191d&color=75a7d9" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-e9b949?style=for-the-badge&labelColor=14191d&color=e9b949" alt="JavaScript" />
+      </p>
+    </td>
+    <td width="46%">
+      <img src="./public/scene-preview-b.png" alt="OceanWatch preview" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="46%">
+      <img src="./public/scene-preview-c.png" alt="LINDOL preview" />
+    </td>
+    <td width="54%">
+      <h3>03 / LINDOL</h3>
+      <p>
+        A Philippine earthquake-monitoring project with a static frontend, Flask
+        backend, PHIVOLCS-backed data flow, map overlays, intensity views, and
+        alert concepts.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-fbfcf8?style=for-the-badge&labelColor=14191d&color=fbfcf8" alt="Flask" />
+        <img src="https://img.shields.io/badge/Leaflet-7aa66a?style=for-the-badge&labelColor=14191d&color=7aa66a" alt="Leaflet" />
+        <img src="https://img.shields.io/badge/PHIVOLCS-e16f4f?style=for-the-badge&labelColor=14191d&color=e16f4f" alt="PHIVOLCS" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br />
-### 🗾 LINDOL
- 
-> A Philippine earthquake-monitoring project with a static frontend, Flask backend, PHIVOLCS-backed data flow, map overlays, intensity views, and alert concepts.
- 
+
 <div align="center">
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
- 
+  <h2>Inside The Build</h2>
 </div>
----
- 
-## Design Notes
- 
-| | |
-|---|---|
-| **01 · Personal** | About section built around identity, student background, and real interests. |
-| **02 · Visual** | Portrait-led layout, project previews, soft gradients, and readable spacing. |
-| **03 · Interactive** | Theme switching, reveal motion, moving ticker, and scroll-progress feedback. |
-| **04 · Practical** | Built with a real stack and deployed like a working portfolio, not a mockup. |
- 
----
- 
-## Run It
- 
-```bash
-# Install and develop
-npm install
-npm run dev
- 
-# Production build
-npm run build
-```
- 
----
- 
-## GitHub Motion
- 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Clemmentino&show_icons=true&hide_border=true&rank_icon=github&title_color=E16F4F&icon_color=E9B949&text_color=5D6970&bg_color=00000000" alt="GitHub stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemmentino&layout=compact&hide_border=true&title_color=E16F4F&text_color=5D6970&bg_color=00000000" alt="Top languages" />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <h3>Theme</h3>
+      <p>Auto, light, soft, and dark modes.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>Motion</h3>
+      <p>Reveal transitions and scroll progress.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>Ticker</h3>
+      <p>Looping skills and interests strip.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>About</h3>
+      <p>Personal identity and focused strengths.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>Work</h3>
+      <p>Sticky project scenes with previews.</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Run the portfolio locally</strong></summary>
+
+  ```bash
+  npm install
+  npm run dev
+  ```
+
+  ```bash
+  npm run build
+  ```
+
+</details>
+
+<details>
+  <summary><strong>Project structure</strong></summary>
+
+  ```txt
+  app/
+    globals.css
+    layout.js
+    page.js
+
+  components/
+    portfolio-experience.jsx
+
+  public/
+    me.jpg
+    readme-hero.svg
+    readme-identity.svg
+    readme-flow.svg
+    readme-stack.svg
+    scene-preview-a.png
+    scene-preview-b.png
+    scene-preview-c.png
+    social-cover.png
+  ```
+
+</details>
+
 <br />
+
+<div align="center">
+  <h2>GitHub Motion</h2>
+  <img height="156" src="https://github-readme-stats.vercel.app/api?username=Clemmentino&show_icons=true&hide_border=true&rank_icon=github&title_color=E16F4F&icon_color=E9B949&text_color=5D6970&bg_color=00000000" alt="Clemmentino GitHub stats" />
+  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemmentino&layout=compact&hide_border=true&title_color=E16F4F&text_color=5D6970&bg_color=00000000" alt="Clemmentino top languages" />
+</div>
+
+<br />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake.svg" />
+    <img alt="Contribution snake eating Clemmentino's GitHub activity" src="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake.svg" />
   </picture>
 </div>
----
- 
+
+<br />
+
 <div align="center">
-  <sub>Frontend-focused &nbsp;·&nbsp; Practical with systems &nbsp;·&nbsp; Interested in public-tech tools</sub>
-  <br /><br />
-  <strong>Clemm Amoguis · Clemmentino · Panabo City, Philippines</strong>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:14191d,45:e16f4f,100:e9b949&text=Clemm%20Amoguis%20/%20Clemmentino&fontColor=fbfcf8&fontSize=28&fontAlignY=55&desc=Frontend-focused.%20Practical%20with%20systems.%20Interested%20in%20public-tech%20tools.&descAlignY=78&descSize=14" alt="Footer banner" />
 </div>
- 
