@@ -180,6 +180,7 @@
     readme-hero.svg
     readme-identity.svg
     readme-flow.svg
+    readme-motion.svg
     readme-stack.svg
     scene-preview-a.png
     scene-preview-b.png
@@ -193,19 +194,20 @@
 
 <div align="center">
   <h2>GitHub Motion</h2>
-  <img height="156" src="https://github-readme-stats.vercel.app/api?username=Clemmentino&show_icons=true&hide_border=true&rank_icon=github&title_color=E16F4F&icon_color=E9B949&text_color=5D6970&bg_color=00000000" alt="Clemmentino GitHub stats" />
-  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemmentino&layout=compact&hide_border=true&title_color=E16F4F&text_color=5D6970&bg_color=00000000" alt="Clemmentino top languages" />
+  <img src="./public/readme-motion.svg" alt="Animated local GitHub motion panel" width="100%" />
 </div>
 
 <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake.svg" />
-    <img alt="Contribution snake eating Clemmentino's GitHub activity" src="https://raw.githubusercontent.com/Clemmentino/Clemmentino-Portfolio/output/github-snake.svg" />
-  </picture>
-</div>
+<details>
+  <summary><strong>Optional live contribution snake</strong></summary>
+
+  The workflow in `.github/workflows/snake.yml` can generate a real contribution
+  snake after this repository is pushed to GitHub and the action runs. Until the
+  `output` branch exists, the local animated panel above is used so the README
+  does not show broken images.
+
+</details>
 
 <br />
 
