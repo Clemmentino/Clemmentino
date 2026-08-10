@@ -1,53 +1,86 @@
-# Clemm Amoguis / Clemmentino
+<h1 align="center">Hey, I'm Clemm 👋</h1>
+<h3 align="center">BSIT Student & Web Developer · Panabo City, Philippines</h3>
 
-**Frontend-focused BSIT student building clean interfaces, practical systems, and public-tech ideas.**
+<p align="center">
+  <a href="https://github.com/Clemmentino"><img src="https://img.shields.io/github/followers/Clemmentino?label=Follow&style=social" alt="GitHub followers"/></a>
+</p>
 
-I am **Clemm Amoguis**, also known as **Clemmentino**. I am a **BSIT 2nd year student** at **Davao Del Norte State College**, based in **Panabo City**.
+---
 
-My strongest interest is frontend work: improving UI/UX, organizing content clearly, and making interfaces feel easier to use. I can also work with backend tasks using **PHP** and **Laravel**, deploy projects through **Vercel** or **Render**, and set up simple server environments when a project needs it.
+### About
 
-## What I Do
+I build practical web applications and digital systems — full stack, from interface down to backend and deployment — with an emphasis on clean UX and reliable functionality.
 
-- Design and improve frontend interfaces
-- Build responsive websites and dashboards
-- Work with PHP and Laravel backend flows
-- Deploy web projects through cloud platforms
-- Explore government tech, monitoring tools, and disaster-warning systems
-- Use photography and videography as part of how I think about layout and presentation
+Right now I'm working on **DataBook**, a web-based platform for improving digital processes and information management in an educational setting. It's given me end-to-end experience: interface, backend, database design, and infrastructure.
 
-## Featured Work
+I like turning ideas into software that's functional, well-designed, and actually solves the problem it was built for.
 
-### Smart Campus Energy System
+---
 
-A school energy-management platform focused on dashboards, appliance states, room scheduling, consumption visibility, and operational feedback.
+### Tech Stack
 
-**Stack:** Laravel, Vue, PHP, Vite, Chart.js, FullCalendar
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFDD54" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-### OceanWatch
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-An SDG 14 advocacy website built for readable marine-conservation content, publication access, volunteer entry points, and responsive browsing.
+**Backend & Data**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+</p>
 
-**Stack:** HTML, CSS, JavaScript, Bootstrap
+**Infra, Cloud & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+</p>
 
-### LINDOL
+**Design & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroomclassic&logoColor=white" alt="Lightroom"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
-A Philippine earthquake-monitoring project with a static frontend, Flask backend, PHIVOLCS-backed data flow, map overlays, intensity views, and alert concepts.
+---
 
-**Stack:** Flask, Leaflet, PHIVOLCS data flow, Vercel, Render
+### GitHub Activity
 
-## Skills
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Clemmentino&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemmentino&layout=compact&theme=transparent&hide_border=true&title_color=2f81f7&text_color=8b949e&langs_count=6" alt="Top languages"/>
+</p>
 
-**Frontend:** HTML, CSS, JavaScript, React, Vue, responsive design, UI/UX  
-**Backend:** PHP, Laravel, Flask, API integration  
-**Tools:** Git, GitHub, Vercel, Render, Vite  
-**Creative:** Photography, videography, visual editing, layout composition
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clemmentino&theme=transparent&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="GitHub streak"/>
+</p>
 
-## Current Direction
+---
 
-I am building toward stronger frontend work while exploring systems that can be useful in real situations, especially public-interest tools, monitoring platforms, and disaster-warning ideas.
-
-## Contact
-
-- Email: `mamoamoguis@gmail.com`
-- GitHub: [github.com/Clemmentino](https://github.com/Clemmentino)
-- Portfolio: [clemmentino-portfolio.vercel.app](https://clemmentino-portfolio.vercel.app)
+<p align="center"><sub>Currently building <b>DataBook</b> for San Vicente National High School.</sub></p>
