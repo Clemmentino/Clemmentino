@@ -2,7 +2,14 @@
 <h3 align="center">BSIT Student & Web Developer · Panabo City, Philippines</h3>
 
 <p align="center">
-  <a href="https://github.com/Clemmentino"><img src="https://img.shields.io/github/followers/Clemmentino?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://github.com/Clemmentino">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2F81F7&center=true&vCenter=true&width=460&lines=Full-stack+web+developer;Building+DataBook+for+SVNHS;Clean+UX+%2B+reliable+backend+systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://databook.svnhspc.com"><img src="https://img.shields.io/badge/Live-databook.svnhspc.com-2f81f7?style=flat-square&logo=vercel&logoColor=white" alt="DataBook live site"/></a>
+  <a href="https://github.com/Clemmentino"><img src="https://img.shields.io/github/followers/Clemmentino?label=Follow&style=flat-square&color=2f81f7" alt="GitHub followers"/></a>
 </p>
 
 ---
@@ -11,9 +18,62 @@
 
 I build practical web applications and digital systems — full stack, from interface down to backend and deployment — with an emphasis on clean UX and reliable functionality.
 
-Right now I'm working on **DataBook**, a web-based platform for improving digital processes and information management in an educational setting. It's given me end-to-end experience: interface, backend, database design, and infrastructure.
+Right now I'm working on **DataBook**, a web-based school data management platform. It's given me end-to-end experience: role-based access design, backend architecture, self-hosted deployment, and shipping something real people actually use daily.
 
 I like turning ideas into software that's functional, well-designed, and actually solves the problem it was built for.
+
+---
+
+### Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🗂️ DataBook**
+<br/>School data management system for San Vicente National High School
+
+Role-based access control across 14 staff roles, a trimester grading system, DepEd-compliant form generation, and a public campus news portal. Self-hosted on Ubuntu via Cloudflare Tunnel with Nginx.
+
+`Next.js` `Laravel` `MySQL` `Nginx` `Cloudflare`
+
+[Visit site →](https://databook.svnhspc.com)
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 DepEd Form Replication**
+<br/>Pixel-accurate official form suite for SVNHS
+
+Print-ready HTML/CSS replicas of official Philippine DepEd forms — SF9 report cards, SF10-SHS, Composite Grading Sheets, and Learner's Performance Reports — with automated grade transmutation.
+
+`HTML/CSS` `Print-layout engineering`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 Classroom Engagement Portal**
+<br/>Fully offline, LAN-based live quiz system
+
+Runs entirely on a teacher's local hotspot — no internet required. Three coordinated interfaces (host, projector, student), real-time scoreboard, and Excel/PDF export of results.
+
+`HTML/CSS/JS` `Real-time UI` `Offline-first`
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Gradebook + Dean's List Engine**
+<br/>Advanced DSA coursework project
+
+Classroom gradebook that ranks a Dean's List using Radix Sort, with the full algorithm flowcharted and exported for documentation.
+
+`Algorithms` `Data Structures`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,6 +141,15 @@ I like turning ideas into software that's functional, well-designed, and actuall
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clemmentino&theme=transparent&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="GitHub streak"/>
 </p>
 
+<p align="center"><sub>If a card above fails to load, it's the free public stats API being rate-limited — reload the page and it'll usually resolve.</sub></p>
+
 ---
+
+### Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Clemmentino"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://databook.svnhspc.com"><img src="https://img.shields.io/badge/DataBook-2f81f7?style=flat-square&logo=googlechrome&logoColor=white" alt="DataBook"/></a>
+</p>
 
 <p align="center"><sub>Currently building <b>DataBook</b> for San Vicente National High School.</sub></p>
